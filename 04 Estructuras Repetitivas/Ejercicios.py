@@ -120,11 +120,11 @@
 
 #Ejercicio 10
 
-num=int(input("Ingrese un numero:"))
-invertido=0
+# num=int(input("Ingrese un numero:"))
+# invertido=0
 
-while num>0:
-    digito=num%10 #de esta manera obtengo el ultimo digito
-    invertido=invertido*10+digito #agrego el digito al numero invertido
-    num=num//10 #elimina el ultimo digito
-print("El numero invertido es:",invertido)
+# while num>0:
+#     digito=num%10 #de esta manera obtengo el ultimo digito
+#     invertido=invertido*10+digito #agrego el digito al numero invertido
+#     num=num//10 #elimina el ultimo digito
+# print("El numero invertido es:",invertido)
