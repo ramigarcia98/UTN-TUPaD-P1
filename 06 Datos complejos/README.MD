@@ -16,4 +16,5 @@ Se mostrará:
 - Una lista de alumnos (sin duplicados).
 - Las materias que se dictan en el curso.
 - Las notas de cada alumno por materia.
+
 Podés modificar los datos dentro del código para ver cómo cambia la salida (por ejemplo, agregando un nuevo alumno o materia).  
